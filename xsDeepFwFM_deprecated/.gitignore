@@ -1,0 +1,9 @@
+/saved_models/
+/logs/
+/archive
+.DS_Store
+/data/large/dac/
+/data/large/*.csv
+/data/large/*_feature_map
+/data/large/ali_dataset
+*.pyc
